@@ -1,5 +1,3 @@
-# web_study_test1
-html 공부하면서 만든 연습용 웹입니다.
 <!doctype html>
 <html>
     <head>
